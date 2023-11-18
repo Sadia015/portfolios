@@ -1,0 +1,42 @@
+body{
+ margin: 0;
+ padding: 0;
+}  
+.navbar{
+width: 100%;
+background-color: rgb(28, 21, 128);
+overflow: auto;
+}
+/*.....nav bar link.....*/
+.navbar a{
+    float: right;
+    text-align: center;
+    padding: 18px;
+    color: rgb(253, 248, 253);
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar a:hover {
+ background-color: rgb(255, 0, 191);    
+}
+.active{
+    background-attachment: rgb(54, 240, 8);
+}
+@media screen and (max-width:500px){   
+}
+body{
+ background-image: url(new_car_showroom.webp);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 700px;
+}
+.logo{
+    padding: 18px;
+color: aliceblue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+float:left;
+font-size: 30px;
+}
+
