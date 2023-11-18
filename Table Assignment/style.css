@@ -1,0 +1,123 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   background-repeat: no-repeat;
+   height:100vh;
+   background-position: center;
+   background-size: cover;
+
+}
+.navbar{
+    width: 100%;
+    background-color:rgb(48, 119, 95);
+    overflow: auto;
+    }
+    .navbar a{
+       float: right;
+       text-align:center;
+       padding: 9px;
+       color: rgb(255, 248, 255);
+       text-decoration: underline;
+       font-size: 25px;
+    }
+    .navbar a:hover {
+    background-color:#ED5AB3;    
+    }
+    .active{
+       background-attachment: rgb(253, 31, 75);
+    }
+    @media screen and (max-width:500px){   
+    }
+    .logo{
+       color:white;
+       font-size: 30px;
+       padding: 10px;
+       float: left;
+       font-family:Georgia, 'Times New Roman', Times, serif;
+          }
+#n{
+border-width: 2px solid;
+border-width: thick;
+border-width: 1px 4px 10px 4px;
+border-style: groove;
+border-color:black;
+text-align: center;
+color:white ;
+background-color: rgb(15, 15, 224);
+margin-top: 0;
+word-spacing: 0.5em;
+}
+.h{ 
+border-width: 2px solid;
+border-width: thick;
+border-width: 1px 4px 10px 4px;
+border-style: groove;
+border-color:black;
+text-align: center;
+color:white ;
+background-color: rgb(15, 15, 224);
+margin-top: 0;
+word-spacing: 0.5em;
+ }
+.t{
+ border-width: 4px solid;
+border-width: thick;
+text-align: center;
+color:rgb(250, 250, 250);
+word-spacing: 0.5em;
+margin-left: 80px;
+margin-top: 80px;
+height: 390px;
+width: 850px;
+background-color: #200bdf;
+border-color: #1a86c9;
+-moz-box-shadow: 10px 10px 10px 10px blue;
+-webkit-box-shadow: 5px 5px 5px 5px rgb(194, 37, 63);
+box-shadow: 5px 5px 5px 5px rgb(197, 52, 76);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+/*
+tr th::after{
+content:'';
+background: rgb(207, 13, 13);
+width: 100%;
+height: 100%;
+position: absolute;
+top: 100%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: -1;
+opacity: 0;
+transition: top 0.5s, opacity o.5s;
+}
+
+table tr th:hover{
+   color: rgb(250, 14, 93);
+}
+
+table tr th:hover ::after{
+   top: .50%;
+   opacity: 1;
+}
+*/
+.a:hover{
+   background-color: #d61689;
+}
+.b:hover{
+   background-color: #5aed6e;
+}
+.c:hover{
+   background-color: #2e042e;
+}
+.d:hover{
+   background-color: #f70a0a;
+}
+
+
+
+
+
+
+
