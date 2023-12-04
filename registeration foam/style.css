@@ -1,0 +1,15 @@
+*{
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+font-size: medium;
+ }
+ body{
+    background-image: url(Woman-student-graduate-university-cambridge-money-pound-signs-cash.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ }
+ div.o{
+color: black;
+border: 4px groove;
+ }
