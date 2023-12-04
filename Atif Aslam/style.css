@@ -1,0 +1,108 @@
+.navbar{
+width: 100%;
+background-color: rgb(18, 18, 19);
+overflow: auto;
+}
+/*.....nav bar link.....*/
+.navbar a{
+   float: right;
+   text-align:center;
+   padding: 10px;
+   color: rgb(255, 248, 255);
+   text-decoration: none;
+   font-size: 25px;
+}
+.navbar a:hover {
+background-color: rgb(226, 35, 115);    
+}
+.active{
+   background-attachment: rgb(7, 114, 100);
+}
+@media screen and (max-width:500px){   
+}
+.logo{
+   color: aliceblue;
+   font-size: 35px;
+   padding: 10px;
+   float: left;
+}
+.PIC{
+   color: rgb(255, 252, 254);
+   text-align:center;
+  background: rgb(15, 4, 112);
+}
+.family{
+   text-align: center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   color:rgb(14, 13, 13);
+   text-decoration: underline;
+   margin: 0px 50px 0px 100px;
+}
+.A{
+   color: rgb(20, 19, 20);
+   text-align: center;  
+   font-display:inherit;
+   font-weight: bold;
+   font-style: normal;
+   font-size: larger;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border:12px solid black;
+   border-color: #f5f50c #f70505 #3eee4d #2279af;
+   border-style: double;
+   -moz-box-shadow: 5px 5px 5px 5px #777777;
+ -webkit-box-shadow: 5px 5px 5px 5px #777777;
+ box-shadow: 5px 5px 5px 5px #777777;
+ margin: 0px 60px 0px 40px;
+  }
+.i{
+ text-align: center; 
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+  border:10px solid black;
+  border-color: #f5f50c #f70505 #3eee4d #2279af;
+  border-style: dashed;
+  -moz-box-shadow: 5px 5px 5px 5px #777777;
+-webkit-box-shadow: 5px 5px 5px 5px #777777;
+box-shadow: 5px 5px 5px 5px #777777;
+margin: 0px 60px 0px 40px;
+ }
+.c{
+   text-align: center;  
+   color: rgb(34, 30, 34);
+   font-display:inherit;
+   font-weight: bold;
+   font-style: normal;
+   font-size: larger;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border:12px solid black;
+   border-color: #f5f50c #f70505 #3eee4d #2279af;
+   border-style: double;
+   -moz-box-shadow: 5px 5px 5px 5px #777777;
+ -webkit-box-shadow: 5px 5px 5px 5px #777777;
+ box-shadow: 5px 5px 5px 5px #777777;
+ margin: 0px 60px 0px 40px;
+}
+.b{
+   text-align: center;
+    position:center ;
+    background-color: black;
+}
+.p{
+      text-align: center; 
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      color:rgb(14, 13, 13);
+      text-decoration: underline;
+      border:12px solid black;
+  border-color: #f5f50c #f70505 #3eee4d #2279af;
+  border-style: dashed;
+  -moz-box-shadow: 5px 5px 5px 5px #777777;
+-webkit-box-shadow: 5px 5px 5px 5px #777777;
+box-shadow: 5px 5px 5px 5px #777777;
+margin: 0px 60px 0px 40px;
+}
+.s{
+   text-align: center;
+}
+
+
+
+ 
