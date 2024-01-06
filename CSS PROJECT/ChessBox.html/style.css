@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(12, 15, 189);
+}
+h1{
+    background-color: rgb(15, 15, 15);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.black{
+background-color: rgb(24, 22, 22);
+display: inline-block;
+width: 120px;
+height:120px;
+}
+.white{
+    background-color: rgb(255, 251, 254);
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    }
+    .a{
+      position: absolute;
+      width: 70px; 
+      height: 70px; 
+      top: 970px;
+      left: 180px;
+      background: none;
+    }
+    .b{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 970px;
+        left: 300px;
+        background: none;
+
+      }
+      .c{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 970px;
+        left: 420px;
+        background: none;
+
+      }
+      .d{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 970px;
+        left: 540px;
+        background: none;
+      }
+      .e{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 970px;
+        left: 660px;
+        background: none;
+      }
+      .f{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 970px;
+        left: 800px;
+        background: none;
+      }
+      .g{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 970px;
+        left: 920px;
+        background: none;
+      }
+      .h{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 970px;
+        left: 1040px;
+        background: none;
+      }
+      .aaa{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 880px;
+        left: 180px;
+        background: none;
+      }
+      .bbb{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 880px;
+        left: 300px;
+        background: none;
+      }
+      .ccc{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 880px;
+        left: 430px;
+        background: none;
+      }
+      .ddd{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 880px;
+        left: 540px;
+        background: none;
+      }
+      .eee{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 880px;
+        left: 680px;
+        background: none;
+      }
+      .fff{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 880px;
+        left: 780px;
+        background: none;
+      }
+      .ggg{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 880px;
+        left: 920px;
+        background: none;
+      }
+      .hhh{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 880px;
+        left: 1040px;
+        background: none;
+      }
+      .aa{
+        position: absolute;
+        width: 75px; 
+        height: 75px; 
+        top: 95px;
+        left: 180px;
+        background: none;
+      } 
+      .bb{
+        position: absolute;
+        width: 70px; 
+        height: 70px; 
+        top: 95px;
+        left: 300px;
+        background: none;
+         }
+         .cc{
+            position: absolute;
+            width: 60px; 
+            height: 70px; 
+            top: 95px;
+            left: 440px;
+          }
+          .dd{
+            position: absolute;
+            width: 70px; 
+            height: 70px; 
+            top: 95px;
+            left: 540px;
+            background: none;
+          }
+          .ee{
+            position: absolute;
+            width: 60px; 
+            height: 75px; 
+            top: 95px;
+            left: 680px;
+            background: none;
+          }
+          .ff{
+            position: absolute;
+            width: 70px; 
+            height: 70px; 
+            top:95px;
+            left: 800px;
+            background: none;
+          }
+          .gg{
+            position: absolute;
+            width: 60px; 
+            height: 70px; 
+            top: 95px;
+            left:940px;
+            background: none;
+          }
+          .hh{
+            position: absolute;
+            width: 75px; 
+            height: 75px; 
+            top: 95px;
+            left: 1040px;
+            background: none;
+          }

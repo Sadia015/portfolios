@@ -1,0 +1,93 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    background: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .logo{
+  color: aliceblue;
+  font-size: 25px;
+  padding: 24px 20px;
+  float: left;
+  font-weight: bolder;
+
+  }
+.navbar {
+    overflow: hidden;
+    background-color: #0084ff; /* You can change the background color */
+  }
+  
+  .navbar a {
+    float: right;
+    display: block;
+    color: #f2f2f2; /* Text color */
+    text-align: center;
+    padding: 24px 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd; /* Change color on hover */
+    color: black;
+  }
+  .home{
+    display: flex;
+    align-items: center;
+    text-transform:capitalize;
+    height: 100vh;
+    padding: 0 10%;
+  }
+  .home-content h1{
+    font-size: 40px;
+    font-weight:bolder;
+    color: #ffffff;
+    word-spacing: 4px;
+  }
+  .home-content h2{
+    font-size: 35px;
+    font-weight:bolder;
+    color: rgb(119, 253, 9);
+    word-spacing: 4px;
+  }
+  .home-content p{
+    font-size: 25px;
+    font-weight:bolder;
+    color: #f2f2f2;
+    word-spacing: 4px;
+  }
+  .home-content .btn{
+    width:300px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+  }
+.btn a{
+  width: 150px;
+  height: 100%;
+  background-color:gray;
+  border: 5px solid blue;
+  color: rgb(252, 245, 245);
+  border-radius: 80px;
+  font-size:25px;
+  font-weight: 600;
+  letter-spacing:1px;
+word-spacing: 2px;
+align-items: center;
+justify-content: center;
+display: inline flex;
+text-decoration: none;
+}
+.btn:hover a {
+  color: #0f0f0f;
+  background-color: rgb(74, 226, 226);
+}
+.i{
+  float: right;
+  justify-content: center;
+  align-items: center;
+  margin-top: 13%;
+  margin-right: 10%;
+}
