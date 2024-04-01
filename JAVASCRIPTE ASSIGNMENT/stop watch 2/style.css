@@ -1,0 +1,36 @@
+h2{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    font-size: 35px;}
+button{
+    display: inline-block;
+    width: 110px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 30px;
+    border: 6px solid rgb(13, 13, 14);
+    color: rgb(227, 227, 236);
+    background-color: blue;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight:bold;
+}
+.a{
+   text-align:center;
+   width: 450px;
+   height: 150px;
+   border: 9px solid rgb(47, 11, 250);
+
+}
+ body{ 
+    background-image: url(watch.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+} 
+h1{
+    margin-bottom: 550px;
+    font-size: 80px;
+    color: blue;
+
+} 

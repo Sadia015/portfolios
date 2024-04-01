@@ -1,0 +1,70 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(252, 252, 253);
+    margin: 0;
+    padding: 0;
+    background-color: rgb(43, 72, 236);
+}
+.container{
+   background-color: rgb(255, 255, 255);
+   width: 250px;
+   margin: 100px auto; 
+   margin-top: 50px;
+   padding: 40px;
+   border-radius: 10px solid rgb(17, 17, 17); 
+   box-shadow:-5px -6px 25px rgb(17, 17, 17);
+}
+h3{
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(38, 34, 228);  
+}
+input{
+    width:230px;
+    padding:5px;
+    border: 2px solid rgb(230, 230, 238);
+    border-radius: 4px;
+    
+}
+.btn{
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: black;
+}
+#fb{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    border: solid 2px;
+    border-color: white;
+    width: 200px;
+    height: 35px;
+}
+#new{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(9, 160, 29);
+    color: rgb(246, 246, 252);
+    border: solid 2px;
+    border-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 35px;
+    margin-left: 20px;
+}
+
